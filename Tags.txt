@@ -1,0 +1,7 @@
+Html tags :
+        * h , b , i , p tags heading , bold , italic , paragraph
+        * br , hr tags break , horizontal line
+        * sup , sub tags upper smaller , lower smaller
+        * strong , em tags bold , italic
+        * q , block quote tags quotes , start after some space
+        * 
