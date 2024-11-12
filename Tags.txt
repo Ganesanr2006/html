@@ -4,4 +4,4 @@ Html tags :
         * sup , sub tags upper smaller , lower smaller
         * strong , em tags bold , italic
         * q , block quote tags quotes , start after some space
-        * 
+        * abbr title= , acronym title= tags abbreviation , acronym
